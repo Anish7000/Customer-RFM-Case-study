@@ -16,7 +16,7 @@ This project is a case study focused on conducting an RFM (Recency, Frequency, M
 - Top 10 Most Profitable Customers 
 - Identify Churned Customers (No purchase in last 180 days)
 - Segment Customers Based on Quantile RFM Scoring 
-- Bottom 5 Selling Products by Quantit
+- Bottom 5 Selling Products by Quantity
 - Group Customers by RFM Score into Segments (Champions, At Risk, etc.) 
 - Top 5 products by revenue 
 - Average Spend per Customer 
